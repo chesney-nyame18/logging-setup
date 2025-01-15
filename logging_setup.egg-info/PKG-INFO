@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: logging_setup
+Version: 0.0.4
+Summary: Package to standardise logging
+Home-page: https://github.com/chesney-nyame18/logging-setup
+Author: Chesney Nyame
+Author-email: ches_tech_cloud@outlook.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Proprietary
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: json_log_formatter
+
+# logging# README
+
+## Purpose
+
+* Python Package to standardise logging
+
+## Set-up
+
+```bash
+ python3 -m venv .venv
+ source .venv/bin/activate
+ pip install --upgrade setuptools wheel
+ python3 setup.py sdist bdist_wheel
+```

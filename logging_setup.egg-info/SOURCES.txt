@@ -1,0 +1,10 @@
+README.md
+setup.py
+logging_setup/__init__.py
+logging_setup/custom_log_format.py
+logging_setup/logging_init.py
+logging_setup.egg-info/PKG-INFO
+logging_setup.egg-info/SOURCES.txt
+logging_setup.egg-info/dependency_links.txt
+logging_setup.egg-info/requires.txt
+logging_setup.egg-info/top_level.txt
